@@ -7,6 +7,8 @@ int led5 = 5;
 
 int val = 0;
 
+int LDR = 0;
+
 void setup()
   {
 
